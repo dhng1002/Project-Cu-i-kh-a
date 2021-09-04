@@ -1,0 +1,4 @@
+#header, #main, #footer{
+    grid-column: 1 / span 12;
+    width: 100%;
+}
