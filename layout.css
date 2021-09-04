@@ -12,10 +12,11 @@ body{
     margin:0;
     padding: 0;
 }
+/* defualt */
 .container{
     width:100%;
 }
-/* defualt */
+
 .container-fluid{
     width:90%;
     margin-left: 5%;
